@@ -1,0 +1,26 @@
+[
+    {
+        "image": "url",
+        "title": "Travel",
+        "date": "23 JAN",
+        "author": "Uhai Mong",
+        "viewed": "200",
+        "content":"Hello, this is testing content."
+    },
+    {
+        "image": "url",
+        "title": "Travel",
+        "date": "23 JAN",
+        "author": "Uhai Mong",
+        "viewed": "200",
+        "content":"Hello, this is testing content."
+    },
+    {
+        "image": "url",
+        "title": "Travel",
+        "date": "23 JAN",
+        "author": "Uhai Mong",
+        "viewed": "200",
+        "content":"Hello, this is testing content."
+    }
+]
