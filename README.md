@@ -25,5 +25,3 @@ This is a simple app to manage content. It is built with React, Redux, TypeScrip
 ## Live App
 
 [https://content-management-app.herokuapp.com/](https://content-management-app.herokuapp.com/)
-
-> Thanks for reach out to me. I am looking forward to hearing from you
